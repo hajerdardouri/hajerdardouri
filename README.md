@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @hajerdardouri
-- 👀 I’m interested in Full-Stack development
-- 📫 How to reach me hajer@dardouri.com
+
  
 
 <!---
